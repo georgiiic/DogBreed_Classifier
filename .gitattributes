@@ -1,1 +1,3 @@
 model/resnet_model.h5 filter=lfs diff=lfs merge=lfs -text
+model/weighted_avg_model.h5 filter=lfs diff=lfs merge=lfs -text
+model/inception_model.h5 filter=lfs diff=lfs merge=lfs -text
